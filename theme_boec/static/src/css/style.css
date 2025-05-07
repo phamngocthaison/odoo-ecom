@@ -1264,7 +1264,7 @@ header .top_nav .wrapper .left .currency .dropdown:hover .dropbtn {
 }*/
 
 .banner_sub .wrapper {
-  background-color: #b0dbf081;
+  background-color: #d6e0c8;
   padding: 50px 0;
 }
 
@@ -3051,7 +3051,7 @@ header .top_nav .wrapper .left .currency .dropdown:hover .dropbtn {
 
 .shop .shop_pagination_area .pagination .page-item.active .page-link {
   color: #eeeeee;
-  background-color: #699cce;
+  background-color: #57381b;
 }
 
 .shop .shop_pagination_area .pagination .page-item .page-link {
@@ -3072,7 +3072,7 @@ header .top_nav .wrapper .left .currency .dropdown:hover .dropbtn {
 
 .shop .shop_pagination_area .pagination .page-item .page-link:hover {
   color: #eeeeee;
-  background-color: #699cce;
+  background-color: #57381b;
 }
 
 .shop .shop_pagination_area .pagination .page-item:nth-child(4) .page-link {
@@ -3311,7 +3311,7 @@ header .top_nav .wrapper .left .currency .dropdown:hover .dropbtn {
 }
 
 .about .testimonial .wrapper .words {
-  background-color: #b0dbf081;
+  background-color: #d6e0c8;
 }
 
 @media screen and (max-width: 976px) {
@@ -3510,7 +3510,7 @@ header .top_nav .wrapper .left .currency .dropdown:hover .dropbtn {
 
 .Shop_details {
   padding-bottom: 80px;
-  background-color: #b0dbf081;
+  background-color: #d6e0c8;
 }
 
 @media screen and (max-width: 400px) {
@@ -3525,7 +3525,7 @@ header .top_nav .wrapper .left .currency .dropdown:hover .dropbtn {
 
 .Shop_details .wrapper .breadcrumb {
   background-color: transparent;
-  padding: 40px 0px 20px 0px;
+  padding: 40px 40px 20px 40px;
 }
 
 .Shop_details .wrapper .breadcrumb .material-icons {
@@ -4670,7 +4670,7 @@ header .top_nav .wrapper .left .currency .dropdown:hover .dropbtn {
 }*/
 
 .blog_details .wrapper {
-  background-color: #b0dbf081;
+  background-color: #d6e0c8;
 }
 
 .blog_details .wrapper .top {
@@ -4867,7 +4867,7 @@ header .top_nav .wrapper .left .currency .dropdown:hover .dropbtn {
 }
 
 .blog_details .details .cover .words .box {
-  background-color: #b0dbf081;
+  background-color: #d6e0c8;
   border-radius: 5px;
   padding: 40px 40px;
   margin-top: 80px;
@@ -5405,7 +5405,7 @@ header .top_nav .wrapper .left .currency .btn-secondary {
 
 .products_pager .pagination .page-item.active .page-link {
   color: #eeeeee;
-  background-color: #699cce;
+  background-color: #57381b;
 }
 
 .products_pager .pagination .page-item .page-link {
@@ -5425,7 +5425,7 @@ header .top_nav .wrapper .left .currency .btn-secondary {
 
 .products_pager .pagination .page-item .page-link:hover {
   color: #eeeeee;
-  background-color: #699cce;
+  background-color: #57381b;
 }
 .btn-sort {
   width: 250px;
@@ -5730,7 +5730,7 @@ header .top_nav .wrapper .left .currency .btn-secondary {
     font-weight: 400;
 }
 .website_blog #o_wblog_post_content .o_wblog_read_text blockquote {
-    background-color: #b0dbf081;
+    background-color: #d6e0c8;
     border-radius: 5px;
     padding: 40px 40px;
     margin-top: 80px;
